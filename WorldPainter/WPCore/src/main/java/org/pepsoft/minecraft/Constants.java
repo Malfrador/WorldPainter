@@ -540,6 +540,7 @@ public final class Constants {
     public static final String MC_TWISTING_VINES = "minecraft:twisting_vines";
     public static final String MC_GLOW_LICHEN = "minecraft:glow_lichen";
     public static final String MC_MOSS_CARPET = "minecraft:moss_carpet";
+    public static final String MC_MOSS_BLOCK = "minecraft:moss_block";
     public static final String MC_BIG_DRIPLEAF_STEM = "minecraft:big_dripleaf_stem";
     public static final String MC_BIG_DRIPLEAF = "minecraft:big_dripleaf";
 
